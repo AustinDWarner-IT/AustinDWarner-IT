@@ -2,6 +2,8 @@
 
 I'm a Software Engineer and Cloud Architect based in Texas — building HIPAA-compliant SaaS platforms, multi-cloud infrastructure, and production-grade DevOps pipelines across AWS and Azure.
 
+**Work:** [austinClaimReturnLLC](https://github.com/austinClaimReturnLLC) · **Personal:** [AustinDWarner-IT](https://github.com/AustinDWarner-IT) · [LinkedIn](https://linkedin.com/in/austin-warner-094709219)
+
 ---
 
 ## About Me
@@ -43,13 +45,6 @@ I'm a Software Engineer and Cloud Architect based in Texas — building HIPAA-co
 **Databases:** SQL Server · PostgreSQL · Redis · Azure SQL MI
 
 **Networking & Security:** VPC Design · VNet Peering · NSGs · WAF Rule Sets · SSL Termination · HIPAA Compliance
-
----
-
-## Connect
-
-- [GitHub](https://github.com/AustinDWarner-IT)
-- [LinkedIn](https://linkedin.com/in/austin-warner-094709219)
 
 ---
 
